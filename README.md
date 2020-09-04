@@ -4,7 +4,7 @@ The aim is to build statistical models that can predict the burned area of the b
 
 # Dataset
 
-The dataset contains 517 fire instances, each of which have 13 columns: the first 12 columns corresponding to the attributes (e.g., spatial coordinates, month, day, four re indices, and other meteorological data) and the last column containing the burned area, i.e., the variable that we will predict. The details of the dataset can be found in the [original research paper](http://www3.dsi.uminho.pt/pcortez/fires.pdf). The dataset files are stored in UCI's website below. 
+The dataset contains 517 fire instances, each of which have 13 columns: the first 12 columns corresponding to the attributes (e.g., spatial coordinates, month, day, and other meteorological data) and the last column containing the burned area, i.e., the variable that we will predict. The details of the dataset can be found in the [original research paper](http://www3.dsi.uminho.pt/pcortez/fires.pdf). The dataset files are stored in UCI's website below. 
 
 Forest fires data : There are two files on the website. One called \forest-fires.csv" contains the data needed for the analysis, and another called \forestfires.names" contains the information about the dataset.
 
